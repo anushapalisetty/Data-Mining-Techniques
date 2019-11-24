@@ -8,7 +8,7 @@ from sklearn import metrics
 #matplotlib inline
 
 
-dataset=pd.read_csv('/Users/pavandoodi/Downloads/Weather.csv',low_memory=False)
+dataset=pd.read_csv('Weather.csv',low_memory=False)
 
 dataset.describe()
 
