@@ -6,7 +6,15 @@
  
 ![LinearRegression](https://user-images.githubusercontent.com/57431137/97088641-519d3380-1600-11eb-8096-8f7a4bcd9c4f.png)
 
+### Multiple Linear Regression
+Implemented Multiple Linear Regression on winequality dataset.Calculated the mean square root error between observed label in dataset. Removed highly correlated features, in order to reduce the mean square error.
+
+![mul_heatmap](https://user-images.githubusercontent.com/57431137/97089195-40eebc80-1604-11eb-9f39-43d223bea35d.png)
+
 ## Logistic Regression & Naive Bayes
+ Implemented classification on Diabetes dataset to predict if a patient has diabetes or not. Performed exploratory data analysis like heatmaps, pairplots, histograms. Fitted the data to both LogisticRegression and NaiveBayes Models.Comapring Logistic and Guassian, Logistic had a better accuracy than Guassian
+ 
+<img width="588" alt="pairplots" src="https://user-images.githubusercontent.com/57431137/97089209-4f3cd880-1604-11eb-8034-0df8b6ecb161.png">
 
 
 ## Principal Component Analysis & Clustering
